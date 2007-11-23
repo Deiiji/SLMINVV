@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////////
+// SL My Inventory Viewer v2.7.0
+// by Seneca Taliaferro/Joseph P. Socoloski III (Minoa)
+// Copyright 2007. All Rights Reserved.
+// WHAT'S NEW: 	
+//  - Fixed SL Connection progressbar bug.
+//  - Better SL Connection error handling.
+//  - Added SL Grid Status browser window on SL Connection tab.
+//  - Added .gz compression support for opening .inv within .gz cache files
+//      (Special Thanks to Eugenio).
+//
+// LIMITS:  -No in-world features enabled while connected to SL
+//LICENSE:
+//BY DOWNLOADING AND USING, YOU AGREE TO THE FOLLOWING TERMS:
+//If it is your intent to use this software for non-commercial purposes, 
+//such as in academic research, this software is free and is covered under 
+//the GNU GPL License, given here: <http://www.gnu.org/licenses/gpl.txt> 
+////////////////////////////////////////////////////////////////////////////
+// Other licenses are found in the 'Third party licenses' folder
+//-Wintellect Power Collections binary .dll is also included with this
+//installation and adheres to section C of the 
+//Shared Source License for Wintellect Power Collections
+//
+//Other third party binaries include:
+//-SLNetworkComm.dll
+//-libsecondlife.dll
+//-CookComputing.XmlRpcV2.dll

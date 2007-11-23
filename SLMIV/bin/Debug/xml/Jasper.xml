@@ -1,0 +1,1325 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<category name="My Inventory" uuid="444cdc6e-1c9a-4591-85d3-f7d9cfffe587" image="0">Name:	My Inventory
+Id Key:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Owner Id Key:	00000000-0000-0000-0000-000000000000
+Parent Id:	00000000-0000-0000-0000-000000000000
+Type:	category
+Pref Type:	Texture
+Version:	0
+<category name="Animations" uuid="82971c9b-f3fe-479a-a759-e5dd8f16f293" image="0">Name:	Animations
+Id Key:	82971c9b-f3fe-479a-a759-e5dd8f16f293
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Animation
+Version:	0
+</category><category name="Body Parts" uuid="da21ac01-7aa4-43c4-b5ef-6f7e028253f3" image="0">Name:	Body Parts
+Id Key:	da21ac01-7aa4-43c4-b5ef-6f7e028253f3
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Bodypart
+Version:	0
+</category><category name="Calling Cards" uuid="d20b3119-863f-4d7d-8ab3-f732a73cad81" image="0">Name:	Calling Cards
+Id Key:	d20b3119-863f-4d7d-8ab3-f732a73cad81
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	CallingCard
+Version:	0
+<callingcard name="Seneca Taliaferro" uuid="3d77c604-d628-f87a-8030-2fde723d017a" image="5">Name:	Seneca Taliaferro
+Description:	
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	3d77c604-d628-f87a-8030-2fde723d017a
+Parent Id:	d20b3119-863f-4d7d-8ab3-f732a73cad81
+Asset Id Key:	unknown
+Type:	callingcard
+Inv Type:	callingcard
+Flags:	0
+Creation date:	11/8/2007 10:21:12 A
+Creator Id:	2bbff43c-e25d-4514-9c28-81bceb372b9c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	Copy, Move
+owner_mask:	Copy, Move
+everyone_mask:	None
+next_owner_mask:	None
+</callingcard></category><category name="Clothing" uuid="fb9f95f5-a26b-4d6e-a14b-ef768d750c8b" image="0">Name:	Clothing
+Id Key:	fb9f95f5-a26b-4d6e-a14b-ef768d750c8b
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Clothing
+Version:	0
+<category name="City Chic Male" uuid="dcaba58c-36a6-faf3-7839-2cf0de4dc4a1" image="0">Name:	City Chic Male
+Id Key:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	fb9f95f5-a26b-4d6e-a14b-ef768d750c8b
+Type:	category
+Pref Type:	Unknown
+Version:	0
+<attachment name="(male) Glasses" uuid="9dfff5ae-cb09-eebf-db16-521115d79f1a" image="5">Name:	(male) Glasses
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	9dfff5ae-cb09-eebf-db16-521115d79f1a
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	attachment
+Flags:	273
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	05d08da9-a56f-4821-a4d3-4261008c19cf
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</attachment><attachment name="(male) Messy Black Fro" uuid="39ce080f-4d2a-3f03-c94e-a49d93e4c0d0" image="5">Name:	(male) Messy Black Fro
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	39ce080f-4d2a-3f03-c94e-a49d93e4c0d0
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	attachment
+Flags:	258
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	05d08da9-a56f-4821-a4d3-4261008c19cf
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</attachment><attachment name="(male) Pocca Necklace" uuid="db0ba2d5-e007-bdf4-43ca-efd5a6a65e51" image="5">Name:	(male) Pocca Necklace
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	db0ba2d5-e007-bdf4-43ca-efd5a6a65e51
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	attachment
+Flags:	265
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	05d08da9-a56f-4821-a4d3-4261008c19cf
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</attachment><wearable name="City Chic - male Eyes" uuid="23d3472f-ff5b-6b2b-0db6-3ac20cba64f7" image="5">Name:	City Chic - male Eyes
+Description:	None
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	23d3472f-ff5b-6b2b-0db6-3ac20cba64f7
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	bodypart
+Inv Type:	wearable
+Flags:	3
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><wearable name="City Chic - male Hair" uuid="47ea3845-8c16-2509-624f-0a1a9060fa84" image="5">Name:	City Chic - male Hair
+Description:	None
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	47ea3845-8c16-2509-624f-0a1a9060fa84
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	bodypart
+Inv Type:	wearable
+Flags:	2
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	00000000-0000-0000-0000-000000000000
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><wearable name="City Chic - male Jacket" uuid="571e7dd4-1055-fff7-4103-74dd03c677ba" image="5">Name:	City Chic - male Jacket
+Description:	None
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	571e7dd4-1055-fff7-4103-74dd03c677ba
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	clothing
+Inv Type:	wearable
+Flags:	8
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	05d08da9-a56f-4821-a4d3-4261008c19cf
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><wearable name="City Chic - male Pants" uuid="a7c29cb6-c860-7cb8-bdfe-d7f97835d4cd" image="5">Name:	City Chic - male Pants
+Description:	None
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	a7c29cb6-c860-7cb8-bdfe-d7f97835d4cd
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	clothing
+Inv Type:	wearable
+Flags:	5
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	05d08da9-a56f-4821-a4d3-4261008c19cf
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><wearable name="City Chic - male Shape" uuid="5e9300a9-112a-e6e5-34fb-130886438a18" image="5">Name:	City Chic - male Shape
+Description:	Created by system from avatar's appearance.
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	5e9300a9-112a-e6e5-34fb-130886438a18
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	bodypart
+Inv Type:	wearable
+Flags:	0
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><wearable name="City Chic - male Shoes" uuid="edb1a7ed-7d43-cd73-5b85-9b1a2b441520" image="5">Name:	City Chic - male Shoes
+Description:	None
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	edb1a7ed-7d43-cd73-5b85-9b1a2b441520
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	clothing
+Inv Type:	wearable
+Flags:	6
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	05d08da9-a56f-4821-a4d3-4261008c19cf
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><wearable name="City Chic - male Skin" uuid="663c4bce-b1f8-bd7c-7eba-8247f5402caf" image="5">Name:	City Chic - male Skin
+Description:	None
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	663c4bce-b1f8-bd7c-7eba-8247f5402caf
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	bodypart
+Inv Type:	wearable
+Flags:	1
+Creation date:	6/17/2006 6:38:00 AM
+Creator Id:	00000000-0000-0000-0000-000000000000
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</wearable><gesture name="hula" uuid="ef9e547b-812a-6f78-94af-a1493ef76b3a" image="4">Name:	hula
+Description:	hula
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	ef9e547b-812a-6f78-94af-a1493ef76b3a
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	1/18/2007 6:51:58 AM
+Creator Id:	6191e2d7-5f96-4856-bdab-af0f79f47ae4
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</gesture><object name="Orientation Guide 2.08" uuid="45561da1-e290-5a99-6baa-d9596e2881c0" image="5">Name:	Orientation Guide 2.08
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	45561da1-e290-5a99-6baa-d9596e2881c0
+Parent Id:	dcaba58c-36a6-faf3-7839-2cf0de4dc4a1
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	256
+Creation date:	8/23/2007 1:47:53 PM
+Creator Id:	ba0d9c79-148c-4a79-8e3c-0665eebe2427
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	Transfer, Copy, Move
+owner_mask:	Transfer, Copy, Move
+everyone_mask:	None
+next_owner_mask:	Transfer, Copy, Move
+</object></category></category><category name="Gestures" uuid="0d17df29-a498-4e74-8a56-d2bb09971f61" image="0">Name:	Gestures
+Id Key:	0d17df29-a498-4e74-8a56-d2bb09971f61
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Gesture
+Version:	0
+<category name="Common Gestures" uuid="3f71f59f-1843-764c-ff68-0733edad0ea8" image="0">Name:	Common Gestures
+Id Key:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	0d17df29-a498-4e74-8a56-d2bb09971f61
+Type:	category
+Pref Type:	Unknown
+Version:	0
+<gesture name="/bow" uuid="2fffc962-07f5-1092-1b53-baf7e5dc9526" image="4">Name:	/bow
+Description:	Bow
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	2fffc962-07f5-1092-1b53-baf7e5dc9526
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:26 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/clap" uuid="1069ef05-be29-a3bd-2f2a-b1045c4961d8" image="4">Name:	/clap
+Description:	Clap
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	1069ef05-be29-a3bd-2f2a-b1045c4961d8
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:28 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/count" uuid="5312d160-4b59-071b-4860-7de429fc72fb" image="4">Name:	/count
+Description:	Count
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	5312d160-4b59-071b-4860-7de429fc72fb
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:29 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/dance4" uuid="b05771cb-d9e7-0f9b-8362-c7ad4f6c27e3" image="4">Name:	/dance4
+Description:	Dance animation 4
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	b05771cb-d9e7-0f9b-8362-c7ad4f6c27e3
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/12/2007 1:51:10 AM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/extinguish" uuid="08a6ac35-5fba-d99e-25c2-b99e8924e979" image="4">Name:	/extinguish
+Description:	Extinguish a cig
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	08a6ac35-5fba-d99e-25c2-b99e8924e979
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:27 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/kmb" uuid="ddaa2d57-92c9-c6b5-72e0-7706a72fed84" image="4">Name:	/kmb
+Description:	Kiss my butt
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	ddaa2d57-92c9-c6b5-72e0-7706a72fed84
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:28 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/muscle" uuid="357cfe8c-122c-2b94-2afb-77fa0eec321c" image="4">Name:	/muscle
+Description:	Flex muscles
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	357cfe8c-122c-2b94-2afb-77fa0eec321c
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:28 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/no" uuid="60346c76-29ab-a2f5-f05d-d5e42e14a0e7" image="4">Name:	/no
+Description:	No
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	60346c76-29ab-a2f5-f05d-d5e42e14a0e7
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:29 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/no!" uuid="b08d6344-5914-fca9-faeb-1ae2233d8cf8" image="4">Name:	/no!
+Description:	No!
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	b08d6344-5914-fca9-faeb-1ae2233d8cf8
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:30 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/paper" uuid="f6b1c43f-67ce-0beb-052b-5944f4704a8e" image="4">Name:	/paper
+Description:	Rock Paper Scissors -- Paper
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	f6b1c43f-67ce-0beb-052b-5944f4704a8e
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:29 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/pointme" uuid="a6abe75f-8a4f-93be-fa66-57c095daa247" image="4">Name:	/pointme
+Description:	Point at yourself
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	a6abe75f-8a4f-93be-fa66-57c095daa247
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:29 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/pointyou" uuid="6dca8d20-2799-0126-408c-d123e47cdbc8" image="4">Name:	/pointyou
+Description:	Point at you
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	6dca8d20-2799-0126-408c-d123e47cdbc8
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:26 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/rock" uuid="a05b39e4-bb05-2fab-f6dd-65efbea8bc13" image="4">Name:	/rock
+Description:	Rock Paper Scissors -- Rock
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	a05b39e4-bb05-2fab-f6dd-65efbea8bc13
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:26 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/scissor" uuid="f32f03ee-a692-4456-7403-869a7d5637f0" image="4">Name:	/scissor
+Description:	Rock Paper Scissors -- Scissor
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	f32f03ee-a692-4456-7403-869a7d5637f0
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:27 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/smoke" uuid="99f5c884-a1f9-0606-a29b-dfbbf27bc46b" image="4">Name:	/smoke
+Description:	Smoke cig
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	99f5c884-a1f9-0606-a29b-dfbbf27bc46b
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:29 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/stretch" uuid="cf0d8fcb-f76e-7cc9-7984-58940c58548a" image="4">Name:	/stretch
+Description:	Stretch and Yawn
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	cf0d8fcb-f76e-7cc9-7984-58940c58548a
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:28 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/whistle" uuid="91c2e0c9-88e5-03b5-6b7d-3bfb920ff8a4" image="4">Name:	/whistle
+Description:	Whistle
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	91c2e0c9-88e5-03b5-6b7d-3bfb920ff8a4
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:25 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/yes" uuid="7ee6f24a-0aa6-8222-821d-4429cba709db" image="4">Name:	/yes
+Description:	Yes
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	7ee6f24a-0aa6-8222-821d-4429cba709db
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:26 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="/yes!" uuid="0d460754-fdf0-006c-1f46-6a8fe9f02be1" image="4">Name:	/yes!
+Description:	Yes!
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	0d460754-fdf0-006c-1f46-6a8fe9f02be1
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:30 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="afk" uuid="7b82985e-40ac-bb4a-22e4-44a1d001598a" image="4">Name:	afk
+Description:	Away from keyboard
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	7b82985e-40ac-bb4a-22e4-44a1d001598a
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:30 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance1" uuid="ee72a692-9fac-7d8a-daae-059d4ba23648" image="4">Name:	dance1
+Description:	Dance animation 1
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	ee72a692-9fac-7d8a-daae-059d4ba23648
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:27 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance2" uuid="a27a0dd8-7b75-e544-20c1-bf89fb411f81" image="4">Name:	dance2
+Description:	Dance animation 2
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	a27a0dd8-7b75-e544-20c1-bf89fb411f81
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:25 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance3" uuid="b2a33bd5-c706-c6d5-fa10-b69fea94048b" image="4">Name:	dance3
+Description:	Dance animation 3
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	b2a33bd5-c706-c6d5-fa10-b69fea94048b
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:26 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance5" uuid="23ecbd1a-8607-7288-b509-711c1fa5ccda" image="4">Name:	dance5
+Description:	Dance animation 5
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	23ecbd1a-8607-7288-b509-711c1fa5ccda
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:26 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance6" uuid="58b86eca-bef7-c694-6208-e2cdff519891" image="4">Name:	dance6
+Description:	Dance animation 6
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	58b86eca-bef7-c694-6208-e2cdff519891
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:28 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance7" uuid="b1aebac6-a429-794d-ddd9-c03a02bac395" image="4">Name:	dance7
+Description:	Dance animation 7
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	b1aebac6-a429-794d-ddd9-c03a02bac395
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:27 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="dance8" uuid="4b7a0e2b-dca8-b493-e42c-1aceb607a6b3" image="4">Name:	dance8
+Description:	Dance animation 8
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	4b7a0e2b-dca8-b493-e42c-1aceb607a6b3
+Parent Id:	3f71f59f-1843-764c-ff68-0733edad0ea8
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:28 PM
+Creator Id:	d929385f-41e3-4a34-a04e-f1fc39f24f12
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture></category><category name="Male Gestures" uuid="f2a94410-44f0-9a69-6709-bda96ded7ed3" image="0">Name:	Male Gestures
+Id Key:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	0d17df29-a498-4e74-8a56-d2bb09971f61
+Type:	category
+Pref Type:	Unknown
+Version:	0
+<gesture name="Male  - Get lost" uuid="d438a846-4d25-6ea5-75bf-b189b9a31ec4" image="4">Name:	Male  - Get lost
+Description:	Male - get lost
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	d438a846-4d25-6ea5-75bf-b189b9a31ec4
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:24 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Blow kiss" uuid="a0656dca-abfb-e513-74a5-b8dc26d6e5fa" image="4">Name:	Male - Blow kiss
+Description:	Male - Blow Kiss
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	a0656dca-abfb-e513-74a5-b8dc26d6e5fa
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:24 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Boo" uuid="54899d9b-f25f-b84b-c591-b7d805173aef" image="4">Name:	Male - Boo
+Description:	Male - Angry boo
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	54899d9b-f25f-b84b-c591-b7d805173aef
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:23 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Bored" uuid="0d1468ac-1916-741d-710c-a7c2bffc9798" image="4">Name:	Male - Bored
+Description:	Male - bored
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	0d1468ac-1916-741d-710c-a7c2bffc9798
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:24 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Chuckle" uuid="592658ee-adeb-44ba-7b68-e4a257e2bcba" image="4">Name:	Male - Chuckle
+Description:	Female - chukle
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	592658ee-adeb-44ba-7b68-e4a257e2bcba
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:25 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Excuse me" uuid="6074c6f0-9ff4-56de-884d-32e3190b0a0e" image="4">Name:	Male - Excuse me
+Description:	Male - excuse me
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	6074c6f0-9ff4-56de-884d-32e3190b0a0e
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:24 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Hey" uuid="80cda011-2fae-814b-5a8b-86b0992f78d2" image="4">Name:	Male - Hey
+Description:	Male - hey
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	80cda011-2fae-814b-5a8b-86b0992f78d2
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:24 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Laugh" uuid="02cc6cd4-3ffb-ddcf-baa5-e3304baac190" image="4">Name:	Male - Laugh
+Description:	Male  - Laugh
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	02cc6cd4-3ffb-ddcf-baa5-e3304baac190
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:23 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Repulsed" uuid="69a90de0-75fc-f7a7-9829-dce347389652" image="4">Name:	Male - Repulsed
+Description:	Male - Repulsed
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	69a90de0-75fc-f7a7-9829-dce347389652
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:25 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Shrug" uuid="62f4bd0d-fd80-0421-812e-e74514a33508" image="4">Name:	Male - Shrug
+Description:	Male - Shrug
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	62f4bd0d-fd80-0421-812e-e74514a33508
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:25 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Stick tougue out" uuid="cb4aede4-c3cb-a686-da72-48fb2330e547" image="4">Name:	Male - Stick tougue out
+Description:	Male - Stick tongue out
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	cb4aede4-c3cb-a686-da72-48fb2330e547
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:23 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture><gesture name="Male - Wow" uuid="6215ead5-b502-9b10-94fc-69196a2a2e66" image="4">Name:	Male - Wow
+Description:	Male - Wow
+Sale type:	Not
+Sale Price L$:	0
+Id Key:	6215ead5-b502-9b10-94fc-69196a2a2e66
+Parent Id:	f2a94410-44f0-9a69-6709-bda96ded7ed3
+Asset Id Key:	unknown
+Type:	gesture
+Inv Type:	gesture
+Flags:	0
+Creation date:	11/7/2007 1:45:23 PM
+Creator Id:	3d924400-038e-6ad9-920b-cfbb9b40585c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</gesture></category></category><category name="Landmarks" uuid="3260eb74-dabc-46cc-b472-1cb624372a3a" image="0">Name:	Landmarks
+Id Key:	3260eb74-dabc-46cc-b472-1cb624372a3a
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Landmark
+Version:	0
+<landmark name="Minoa in Building, Minoa (24, 132, 103)" uuid="b95d67b0-e251-8656-1736-b0110106f373" image="11">Name:	Minoa in Building, Minoa (24, 132, 103)
+Description:	Seneca Enterprises, Minoa (24, 132, 103)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	b95d67b0-e251-8656-1736-b0110106f373
+Parent Id:	3260eb74-dabc-46cc-b472-1cb624372a3a
+Asset Id Key:	unknown
+Type:	landmark
+Inv Type:	landmark
+Flags:	1
+Creation date:	11/8/2007 10:18:11 AM
+Creator Id:	2bbff43c-e25d-4514-9c28-81bceb372b9c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</landmark><landmark name="Sandbox Island - Wiped @ 3 AM&amp;PM, Sandbox Island (99, 24, 26)" uuid="1501c175-b2ba-c70d-331e-507c1b566731" image="11">Name:	Sandbox Island - Wiped @ 3 AM&amp;PM, Sandbox Island (99, 24, 26)
+Description:	Sandbox Island - Wiped @ 3 AM&amp;PM, Sandbox Island (99, 24, 26)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	1501c175-b2ba-c70d-331e-507c1b566731
+Parent Id:	3260eb74-dabc-46cc-b472-1cb624372a3a
+Asset Id Key:	unknown
+Type:	landmark
+Inv Type:	landmark
+Flags:	0
+Creation date:	11/18/2007 11:56:51 PM
+Creator Id:	2bbff43c-e25d-4514-9c28-81bceb372b9c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</landmark><landmark name="SE Workshop (inside), Theretra (28, 236, 83)" uuid="6c533f58-12d2-faea-b6df-913549b8aea0" image="11">Name:	SE Workshop (inside), Theretra (28, 236, 83)
+Description:	SE Workshop, Theretra (28, 236, 83)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	6c533f58-12d2-faea-b6df-913549b8aea0
+Parent Id:	3260eb74-dabc-46cc-b472-1cb624372a3a
+Asset Id Key:	unknown
+Type:	landmark
+Inv Type:	landmark
+Flags:	0
+Creation date:	11/18/2007 11:56:27 PM
+Creator Id:	2bbff43c-e25d-4514-9c28-81bceb372b9c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</landmark><landmark name="SE Workshop, Theretra (29, 253, 78)" uuid="a88e0ef7-334f-eaff-2d9a-51b12ea9275e" image="11">Name:	SE Workshop, Theretra (29, 253, 78)
+Description:	SE Workshop, Theretra (29, 253, 78)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	a88e0ef7-334f-eaff-2d9a-51b12ea9275e
+Parent Id:	3260eb74-dabc-46cc-b472-1cb624372a3a
+Asset Id Key:	unknown
+Type:	landmark
+Inv Type:	landmark
+Flags:	0
+Creation date:	11/18/2007 11:56:34 PM
+Creator Id:	2bbff43c-e25d-4514-9c28-81bceb372b9c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</landmark></category><category name="Lost And Found" uuid="43745d2f-206f-4ebe-80c0-c9d4ad58aa5c" image="0">Name:	Lost And Found
+Id Key:	43745d2f-206f-4ebe-80c0-c9d4ad58aa5c
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	LostAndFoundFolder
+Version:	0
+</category><category name="Notecards" uuid="45bfeb66-1e80-4100-89f6-8c2e30a00f88" image="0">Name:	Notecards
+Id Key:	45bfeb66-1e80-4100-89f6-8c2e30a00f88
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Notecard
+Version:	0
+<notecard name="Test Notecard" uuid="ed87cca4-1d81-5165-1362-b37679fb429c" image="10">Name:	Test Notecard
+Description:	2007-11-11 09:46:23 note card
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	ed87cca4-1d81-5165-1362-b37679fb429c
+Parent Id:	45bfeb66-1e80-4100-89f6-8c2e30a00f88
+Asset Id Key:	unknown
+Type:	notecard
+Inv Type:	notecard
+Flags:	0
+Creation date:	11/12/2007 1:47:01 AM
+Creator Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</notecard></category><category name="Objects" uuid="0e4779e4-8756-4fa2-8346-08a902d4582b" image="0">Name:	Objects
+Id Key:	0e4779e4-8756-4fa2-8346-08a902d4582b
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Primitive
+Version:	0
+<object name="Dice (drag to ground)" uuid="ab3aaef7-cdb8-528c-7f5d-5fae3ae9a560" image="5">Name:	Dice (drag to ground)
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	ab3aaef7-cdb8-528c-7f5d-5fae3ae9a560
+Parent Id:	0e4779e4-8756-4fa2-8346-08a902d4582b
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	0
+Creation date:	11/18/2007 11:50:19 PM
+Creator Id:	3d986d15-3bdb-42e4-56a5-aa020a548a45
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	2147467263
+next_owner_mask:	All
+</object><object name="Fast Fly Cape" uuid="6124db0a-8a13-f647-660c-f52682414b0c" image="5">Name:	Fast Fly Cape
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	6124db0a-8a13-f647-660c-f52682414b0c
+Parent Id:	0e4779e4-8756-4fa2-8346-08a902d4582b
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	0
+Creation date:	11/8/2007 10:18:34 AM
+Creator Id:	a645abd7-b692-4369-aceb-310189e74ad3
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	Transfer, Modify, Copy, Move
+owner_mask:	Transfer, Modify, Copy, Move
+everyone_mask:	None
+next_owner_mask:	Transfer, Modify, Copy, Move
+</object><object name="Light eyes" uuid="80fcc4c8-d202-cfbf-e772-c00feeceabc2" image="5">Name:	Light eyes
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	80fcc4c8-d202-cfbf-e772-c00feeceabc2
+Parent Id:	0e4779e4-8756-4fa2-8346-08a902d4582b
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	0
+Creation date:	11/18/2007 11:49:55 PM
+Creator Id:	3d3702bf-27ba-e21c-f67d-8d5df867bd61
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</object><object name="PowerEmail Server Kit v1.6.1" uuid="bb528060-8197-bdee-36a6-dca7d0225094" image="5">Name:	PowerEmail Server Kit v1.6.1
+Description:	(v1.6.1)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	bb528060-8197-bdee-36a6-dca7d0225094
+Parent Id:	0e4779e4-8756-4fa2-8346-08a902d4582b
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	0
+Creation date:	11/18/2007 11:49:45 PM
+Creator Id:	2bbff43c-e25d-4514-9c28-81bceb372b9c
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	Transfer, Move
+owner_mask:	Move
+everyone_mask:	None
+next_owner_mask:	Move
+</object></category><category name="Photo Album" uuid="9d1bed1f-7b67-4433-b430-f9ae40072146" image="0">Name:	Photo Album
+Id Key:	9d1bed1f-7b67-4433-b430-f9ae40072146
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	SnapshotFolder
+Version:	0
+</category><category name="Scripts" uuid="fa40b696-3ce3-4a0b-b7f9-d60fc7ec1e51" image="0">Name:	Scripts
+Id Key:	fa40b696-3ce3-4a0b-b7f9-d60fc7ec1e51
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	LSLText
+Version:	0
+<lsl name="New Script" uuid="c0cef285-2ca5-ca81-6337-e501b6203ff0" image="5">Name:	New Script
+Description:	2007-11-11 09:52:14 lsl2 script
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	c0cef285-2ca5-ca81-6337-e501b6203ff0
+Parent Id:	fa40b696-3ce3-4a0b-b7f9-d60fc7ec1e51
+Asset Id Key:	unknown
+Type:	lsltext
+Inv Type:	lsl
+Flags:	0
+Creation date:	11/12/2007 1:52:14 AM
+Creator Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	Transfer, Move
+</lsl></category><category name="Sounds" uuid="8c499a5e-9258-4189-9af1-db3e94b511b4" image="0">Name:	Sounds
+Id Key:	8c499a5e-9258-4189-9af1-db3e94b511b4
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Sound
+Version:	0
+</category><category name="Textures" uuid="4df4594f-831e-445e-8a10-fb92d7a4fa7a" image="0">Name:	Textures
+Id Key:	4df4594f-831e-445e-8a10-fb92d7a4fa7a
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	Texture
+Version:	0
+</category><category name="Trash" uuid="ee99f715-ec1e-4fa9-69b2-96ae985d3011" image="2">Name:	Trash
+Id Key:	ee99f715-ec1e-4fa9-69b2-96ae985d3011
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	TrashFolder
+Version:	0
+<object name="Dice (drag to ground)" uuid="cedfdd9a-2557-be30-4bcb-553363434106" image="5">Name:	Dice (drag to ground)
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	cedfdd9a-2557-be30-4bcb-553363434106
+Parent Id:	ee99f715-ec1e-4fa9-69b2-96ae985d3011
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	0
+Creation date:	11/19/2007 12:00:54 AM
+Creator Id:	3d986d15-3bdb-42e4-56a5-aa020a548a45
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</object></category></category>
