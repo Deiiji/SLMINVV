@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<category name="My Inventory" uuid="444cdc6e-1c9a-4591-85d3-f7d9cfffe587" image="0">Name:	My Inventory Id Key:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Owner Id Key:	00000000-0000-0000-0000-000000000000 Parent Id:	00000000-0000-0000-0000-000000000000 Type:	category Pref Type:	Texture Version:	0
+<category name="Photo Album" uuid="9d1bed1f-7b67-4433-b430-f9ae40072146" image="0">
+Name:	Photo Album Id Key:	9d1bed1f-7b67-4433-b430-f9ae40072146
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	SnapshotFolder
+Version:	0
+</category>
+<category name="Trash" uuid="ee99f715-ec1e-4fa9-69b2-96ae985d3011" image="2">Name:	Trash
+Id Key:	ee99f715-ec1e-4fa9-69b2-96ae985d3011
+Owner Id Key:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Parent Id:	444cdc6e-1c9a-4591-85d3-f7d9cfffe587
+Type:	category
+Pref Type:	TrashFolder
+Version:	0
+<object name="Dice (drag to ground)" uuid="cedfdd9a-2557-be30-4bcb-553363434106" image="5">Name:	Dice (drag to ground)
+Description:	(No Description)
+Sale type:	Not
+Sale Price L$:	10
+Id Key:	cedfdd9a-2557-be30-4bcb-553363434106
+Parent Id:	ee99f715-ec1e-4fa9-69b2-96ae985d3011
+Asset Id Key:	unknown
+Type:	primitive
+Inv Type:	object
+Flags:	0
+Creation date:	11/19/2007 12:00:54 AM
+Creator Id:	3d986d15-3bdb-42e4-56a5-aa020a548a45
+Owner Id:	d510e3b1-1304-48d5-9a47-95bd166fcc30
+Last Owner Id:	
+Group Id:	00000000-0000-0000-0000-000000000000
+base_mask:	All
+owner_mask:	All
+everyone_mask:	None
+next_owner_mask:	All
+</object>
+</category>
+</category>
