@@ -1,0 +1,4 @@
+Log Entry :
+3:09:01 PM 1/20/2009
+Created main log file successfully!
+---------------------------------------
