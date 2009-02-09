@@ -1,0 +1,45 @@
+// SL My Inventory Viewer v2.10.17
+// by Seneca Taliaferro/Joseph P. Socoloski III (Minoa)
+// Copyright 2008-2009. All Rights Reserved.
+// NOTE:   View and search your inventory offline and out-world.
+// WHAT'S NEW: 	
+//  - FIXED: Issue 3: Can only span out to 8 folders of inventory. [InsertUnderParent, TreeViewToXML, sendSearchToLogToolStripMenuItem_Click recursive]
+//  - FIXED: Issue 5: Images do not open when right-clicking on an object
+//  - FIXED: Issue 6: Download Notecards and scripts
+//  - FIXED: Issue 7: 'Could not find Photo Album folder' exception
+//  - FIXED: Issue 9: Doing two SL Connections in a row causes freezing
+//  - FIXED: Stopped right-click menu from first draw in upperleft corner
+//  - FIXED: OS Support=[Vista SP1 and Windows 7 (Beta Build 7000) support]
+//  - NEW FEATURE: Backup Scripts, Notecards, Textures, and other images in your inventory as one job. (Auto-adds to your imagelog)
+//  - NEW FEATURE: Backup Scripts, Notecards, Textures, and other images individually by right-click->Download on an item.(Auto-adds to your imagelog)
+//  - NEW FEATURE: Issue 10: Connect to other grids (buggy because of other grid permissions and interfaces)
+//  - NEW FEATURE: SL Connection Logging for troubleshooting
+//  - NEW FEATURE: 'Create Word Hit List': Lists highest to lowest of word frequencies found in the current treeview inventory
+//  - NEW FEATURE: Issue 12: Search & Filter by property: Transfer, Modify, Copy, Move, All (Special Thanks to sircaren)
+//  - FIXED: Issue 14: Image Batch Backup: System.ArgumentException: An item with the same key has already been added
+// 2.10.17:
+//  - FIXED: Issue 17: webBrowser control throwing exception on 'http://secondlife.com/app/login/_scripts/need_new_version.js' 
+//  - FIXED: Issue 16: Right-click downloading does not work only after a reload of inventory:line 3051
+//
+// LIMITS:  -No in-world features (rezzing, etc.) enabled while connected to SL
+//          -Can not download objects in a 3D format.
+// TODO:    
+//          - Issue 11: Save inventory to hard disk and be able to *restore* them to any SL grid.
+//LICENSE
+//BY DOWNLOADING AND USING, YOU AGREE TO THE FOLLOWING TERMS:
+//If it is your intent to use this software for non-commercial purposes, 
+//such as in academic research, this software is free and is covered under 
+//the GNU GPL License, given here: <http://www.gnu.org/licenses/gpl.txt> 
+//You agree with Linden Research, Inc's Terms Of Service
+//given here: <http://secondlife.com/corporate/tos.php>
+////////////////////////////////////////////////////////////////////////////
+// Other licenses are found in the 'Third party licenses' folder
+//-Wintellect Power Collections binary .dll is also included with this
+//installation and adheres to section C of the 
+//Shared Source License for Wintellect Power Collections
+//
+//Other third party binaries include:
+//-SLNetworkComm.dll
+//-libsecondlife.dll
+//-CookComputing.XmlRpcV2.dll
+//-openjpeg-libsl.dll
