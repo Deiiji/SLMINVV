@@ -1,3 +1,0 @@
-ab3aaef7-cdb8-528c-7f5d-5fae3ae9a560,C:\Users\USERNAME\Documents\SLMIV\images\dice.jpg # Dice (drag to ground)
-6124db0a-8a13-f647-660c-f52682414b0c,http://farm3.static.flickr.com/2152/2043165255_6e47a1bf65.jpg?v=0 # Fast Fly Cape
-80fcc4c8-d202-cfbf-e772-c00feeceabc2,C:\Users\USERNAME\Documents\SLMIV\images\Light eyes.bmp # Light eyes
